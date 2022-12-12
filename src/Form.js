@@ -1,10 +1,11 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-function Form(form, handleChange) {
+function Form({ form, handleChange }) {
   return (
     <div>
       <form>
+        {/* <h5>Form.Jsx Sayfası</h5> */}
         <input
           type="text"
           name="isim"
