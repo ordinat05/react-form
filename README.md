@@ -1,3 +1,21 @@
+### Videodan izleyebilirsiniz. Watch the video.
+[Watch the video] <video src="https://user-images.githubusercontent.com/74843274/207121896-95c610ae-d3db-429b-93df-45bfd68a26bc.mp4
+  "></video>
+
+### Ekran görüntüleri 1 -->
+![alt resim](https://raw.githubusercontent.com/ordinat05/react-form/master/src/AppScreenShot/BosForm.PNG)
+
+### Ekran görüntüleri 2
+![alt resim](https://raw.githubusercontent.com/ordinat05/react-form/master/src/AppScreenShot/DoluForm.PNG)
+
+### Ekran görüntüleri 3
+![alt resim](https://raw.githubusercontent.com/ordinat05/react-form/master/src/AppScreenShot/YeniSayfa.PNG)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
